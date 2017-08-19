@@ -9,11 +9,6 @@
 | CSS        |                |
 | C++        |                |
 
-Elixir/Phoenix
-React
-Docker/Rancher
-
-
 ## Work Experience
 ------------------
 
