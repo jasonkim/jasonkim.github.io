@@ -1,4 +1,5 @@
 ## Skills
+---------
 
 | Proficient | Learning       |
 | ---------- | -------------- |
