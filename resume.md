@@ -1,4 +1,5 @@
 ## Work Experience
+------------------
 
 ### Software Engineering Manager
 ##### Avvo (Jun 2016 - Present)
@@ -26,5 +27,6 @@
 - Integrated low cost carriers as one of the flight options through 3rd party API (C++)
 
 ## Education
+------------
 ### University of Waterloo
 ##### Bachelor of Mathematics, Honors Computer Science (Sep 2004 - Apr 2006)
