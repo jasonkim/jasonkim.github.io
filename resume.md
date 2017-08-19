@@ -6,13 +6,13 @@
 - Manage developers across multiple teams by having regular 1:1s and career coaching
 - Work with other orgs to unblock teams and enable them to run smoother
 - Mentor and pair program with junior developers
-- Implement micro services such as url shortener and webhook endpoint for 3rd party API (elixir/pheonix)
+- Implement micro services such as url shortener and webhook endpoint for 3rd party API (Elixir/Pheonix)
 
 ### Software Engineering Lead
 ##### Avvo (Sep 2014 - Jun 2016)
-- Led a team of developers in charge of content on Avvo (Q&A, topics)
-- Worked on converting monolithic Rails application to service oriented architecture (Rails, resque)
-- Spearheaded many projects such as on-site messaging platform, hosted search solution, metrics/monitoring
+- Led a team of developers in charge of ugc and in-house content on Avvo (Rails, Kafka)
+- Worked on converting monolithic Rails application to service oriented architecture (Rails, Resque)
+- Spearheaded many projects such as on-site messaging platform, hosted search solution, metrics/monitoring (Twilio, Algolia, Datadog)
 
 ### Software Developer
 ##### Avvo (Jun 2010 - Sep 2014)
