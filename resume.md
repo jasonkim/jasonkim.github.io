@@ -1,12 +1,12 @@
 ## Skills
 
-Proficient | Learning
----        | ---
-Ruby/Rails | Elixir/Phoenix
-SQL        | React
-HTML       | Docker/Rancher
-CSS
-C++
+| Proficient | Learning       |
+| ---------- | -------------- |
+| Ruby/Rails | Elixir/Phoenix |
+| SQL        | React          |
+| HTML       | Docker/Rancher |
+| CSS        |                |
+| C++        |                |
 
 Elixir/Phoenix
 React
