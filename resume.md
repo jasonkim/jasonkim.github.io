@@ -13,7 +13,7 @@
 ------------------
 
 ### Software Engineering Manager
-##### Avvo (Jun 2016 - Present)
+##### Avvo (Jun 2016 - Aug 2017)
 - Manage developer team resources and hold developers accountable for deliverables and performance
 - Manage developers across multiple teams by having regular 1:1s and career coaching
 - Work with other orgs to unblock teams and enable them to run smoother
