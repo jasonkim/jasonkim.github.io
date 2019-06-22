@@ -1,16 +1,24 @@
 ## Skills
 ---------
 
-| Proficient | Learning       |
-| ---------- | -------------- |
-| Ruby/Rails | Elixir/Phoenix |
-| SQL        | React          |
-| HTML       | Docker/Rancher |
-| CSS        |                |
-| C++        |                |
+| Proficient  | Learning        |
+| ----------- | --------------- |
+| Ruby/Rails  | Elixir/Phoenix  |
+| Go          | Embedded system |
+| C/C++       | Yocto           |
+| HTML/CSS    | Docker          |
+| React/Redux | GCP             |
+| SQL         |                 |
 
 ## Work Experience
 ------------------
+
+### Software Architect
+###### Blokable (Aug 2017 - Present)
+- Architect, design, and implement solutions across firmware (C/C++, Yocto), api backend (Go), and frontend (React/Redux), built from ground up
+- Research and select various sensors/IoT devices for data gathering within the Blokable building system (Embedded system)
+- Problem solve scaling of data gathering and presenting data in useful and concise manner (Go, React/Redux, Chartjs)
+- Advise on product direction, software selection, and hardware design
 
 ### Software Engineering Manager
 ##### Avvo (Jun 2016 - Aug 2017)
