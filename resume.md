@@ -4,10 +4,10 @@
 | Proficient  | Learning        |
 | ----------- | --------------- |
 | Go          | Embedded system |
-| C/C++       | Yocto           |
-| React/Redux | GCP             |
-| HTML/CSS    | Docker          |
-| Ruby/Rails  | Elixir/Phoenix  |
+| React/Redux | Yocto           |
+| Ruby/Rails  | GCP             |
+| C/C++       | Docker          |
+| HTML/CSS    | Elixir/Phoenix  |
 | SQL         |                 |
 
 ## Work Experience
