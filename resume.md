@@ -45,5 +45,6 @@
 ---------
 
 <b>Go, React/Redux, Ruby/Rails, C/C++, SQL/MySQL, Git, Sass</b>
+
 GCP, Docker, Vagrant, Elixir/Phoenix, GraphQL, Webpack
 
