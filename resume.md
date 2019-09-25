@@ -44,6 +44,8 @@
 ## Technical Skills
 ---------
 
-Strong: Go, React/Redux, Ruby/Rails, C/C++, SQL/MySQL, Git, Sass
-Knowledgeable: GCP, Docker, Vagrant, Elixir/Phoenix, GraphQL, Webpack
+##### Strong
+Go, React/Redux, Ruby/Rails, C/C++, SQL/MySQL, Git, Sass
+##### Knowledgeable
+GCP, Docker, Vagrant, Elixir/Phoenix, GraphQL, Webpack
 
