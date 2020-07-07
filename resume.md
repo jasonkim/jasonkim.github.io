@@ -1,5 +1,3 @@
-Passionate software engineer with 14 years of experience developing scalable and customer centric APIs and systems through cross-team collaboration and effective communication. Ability to bring positive impact to the business while balancing limited resources.
- 
 ## Work Experience
 ------------------
  
@@ -9,7 +7,7 @@ Passionate software engineer with 14 years of experience developing scalable and
 - Send millions of self-service COVID travel notifications to customers by bootstrapping the new communication platform to relieve call center volumes
  
 ### Senior Software Engineer / Software Architect
-##### Blokable  (Aug 2017 - Jan 2020)
+##### Blokable (Aug 2017 - Jan 2020)
 - Architected, designed, and implemented solutions from the ground up across firmware (C/C++, Yocto), API backend (Go, GCP), and frontend (React/Redux)
 - Partnered with design/architect/build teams on researching and selecting various sensors/IoT devices to improve future customer units
 - Advised the executive team on product direction, software selection, and hardware design

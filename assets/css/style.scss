@@ -3,8 +3,20 @@
 
 @import "{{ site.theme }}";
 
+.contact {
+  margin: 0 0 20px;
+}
+
+.printonly {
+  display: none;
+}
+
 @media print {
-  footer {
+  .printonly {
+    display: inherit;
+  }
+
+  .noprint, footer {
     display: none;
   }
 
