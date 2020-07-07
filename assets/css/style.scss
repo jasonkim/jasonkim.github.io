@@ -13,7 +13,7 @@
 
 @media print {
   .printonly {
-    display: inherit;
+    display: inline-block;
   }
 
   .noprint, footer {
