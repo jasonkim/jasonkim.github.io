@@ -5,8 +5,8 @@
 #### GitHub (Jan 2023 - Present)
 - Aggregated Copilot usage events into a customer-facing dashboard, giving teams visibility into adoption, engagement, and usage trends
 - Enabled self-serve renewal of yearly contracts and additional seat purchases for enterprises, saving hundreds of hours of manual process
-- Led various A/B testing initiatives to acquire and activate users, such as copilot signup, activation, and intial setup of organization
-- Collaborated with user research, designs, product, and data to identify problem areas, hypothesizing solutions, and design experiments to prove/disprove our hypotheses
+- Led various A/B testing initiatives to acquire and activate users, such as copilot signup, activation, and initial setup of organization
+- Collaborated with user research, design, product, and data to identify problem areas, hypothesizing solutions, and design experiments to prove/disprove our hypotheses
 
 ### Staff Software Engineer
 #### Gusto (Apr 2021 - Oct 2022)
@@ -32,7 +32,7 @@
 - Managed engineering team resources and held engineers accountable for deliverables and performance
 - Coached engineers across multiple teams by having regular 1:1s and mentored career development
 - Collaborated with the product, design, and test teams on resource allocation and creating quality customer experience features
-- Implemented microservices such as URL shortener and webhook endpoint for 3rd party API using Elixir/Pheonix
+- Implemented microservices such as URL shortener and webhook endpoint for 3rd party API using Elixir/Phoenix
 
 ### Software Engineering Lead
 #### Avvo (Sep 2014 - Jun 2016)
@@ -56,6 +56,6 @@
 
 **Backend:** Ruby/Rails, Scala, Go, MySQL, Postgres
 
-**Frontend:** React, Javascript, Typescript, CSS/SCSS, ViewComponent
+**Frontend:** React, JavaScript, TypeScript, CSS/SCSS, ViewComponent
 
 **Infra:** Azure, AWS, GCP, Docker
