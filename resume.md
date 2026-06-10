@@ -31,7 +31,7 @@
 #### Avvo (Jun 2016 - Aug 2017)
 - Managed engineering team resources and held engineers accountable for deliverables and performance
 - Coached engineers across multiple teams by having regular 1:1s and mentored career development
-- Collaborated with the product, design, and test teams on resource allocation and creating quality customer experience features
+- Collaborated with product, design, and test teams on resource allocation and creating quality customer experience features
 - Implemented microservices such as URL shortener and webhook endpoint for 3rd party API using Elixir/Phoenix
 
 ### Software Engineering Lead
