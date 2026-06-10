@@ -54,10 +54,10 @@
 ## Technical Skills
 ----------------
 
-**Backend:** Ruby on Rails, Go, Scala, Elixir/Phoenix, REST APIs, event-driven systems, Kafka, MySQL, PostgreSQL
+**Backend:** Ruby on Rails, Go, Scala, Elixir/Phoenix, REST APIs, event-driven systems, Kafka, MySQL, PostgreSQL, Spark
 
-**Frontend:** React, TypeScript, JavaScript, CSS/SCSS
+**Frontend:** React, TypeScript, JavaScript, CSS/SCSS, ViewComponent
 
 **Cloud/Infra:** Azure, AWS, GCP, Docker, CI/CD
 
-**Other:** A/B testing, experimentation, analytics, authorization/authentication, IoT
+**Other:** A/B testing, experimentation, Kusto, authorization/authentication, IoT
