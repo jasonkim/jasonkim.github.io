@@ -56,7 +56,7 @@
 
 **Backend:** Ruby on Rails, Go, Scala, Elixir/Phoenix, REST APIs, event-driven systems, Kafka, MySQL, PostgreSQL
 
-**Frontend:** React, TypeScript, JavaScript, CSS/SCSS
+**Frontend:** React, TypeScript, JavaScript, CSS/SCSS, ViewComponent
 
 **Cloud/Infra:** Azure, AWS, GCP, Docker, CI/CD
 
